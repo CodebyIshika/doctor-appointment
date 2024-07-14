@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dpxUVj8dGYFeH7nSA3wavcnjvO+pYaTLJIrxSdBgQ24=",
+  "Source": "MedAppointmentAPI",
+  "BasePath": "_content/MedAppointmentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

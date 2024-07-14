@@ -1,0 +1,14 @@
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\bin\Debug\net6.0\MAEntities.deps.json
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\bin\Debug\net6.0\MAEntities.runtimeconfig.json
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\bin\Debug\net6.0\MAEntities.dll
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\bin\Debug\net6.0\MAEntities.pdb
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\obj\Debug\net6.0\MAEntities.csproj.AssemblyReference.cache
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\obj\Debug\net6.0\MAEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\obj\Debug\net6.0\MAEntities.AssemblyInfoInputs.cache
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\obj\Debug\net6.0\MAEntities.AssemblyInfo.cs
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\obj\Debug\net6.0\MAEntities.csproj.CoreCompileInputs.cache
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\obj\Debug\net6.0\MAEntities.dll
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\obj\Debug\net6.0\refint\MAEntities.dll
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\obj\Debug\net6.0\MAEntities.pdb
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\obj\Debug\net6.0\MAEntities.genruntimeconfig.cache
+C:\Users\madha\OneDrive - mitt.ca\MITT\Medical-Project-Api\Project\MAEntities\obj\Debug\net6.0\ref\MAEntities.dll
